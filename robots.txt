@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-yg561v.saturadar88.shop/sitemap.xml
